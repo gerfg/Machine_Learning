@@ -13,3 +13,6 @@ Cursos:
     - [ ] 3.Structuring Machine Learning Projects
     - [ ] 4.Convolutional Neural Networks
     - [ ] 5.Sequence Models
+
+Books (Annotations and exercises):
+- Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow
