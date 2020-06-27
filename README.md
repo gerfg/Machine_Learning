@@ -9,10 +9,13 @@ Algoritmos Implementados:
 Cursos:
 - Deep Learning Especialization
     - [x] 1.Neural Networks and Deep Learning
-    - [ ] 2.Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+    - [x] 2.Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
     - [ ] 3.Structuring Machine Learning Projects
     - [ ] 4.Convolutional Neural Networks
     - [ ] 5.Sequence Models
+
+Guided Projects (coursera):
+- Data augmentation with Keras
 
 Books (Annotations and exercises):
 - Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow
